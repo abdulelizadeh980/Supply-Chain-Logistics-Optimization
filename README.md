@@ -6,6 +6,7 @@
 **Role:** Data Science & Analytics Intern | Industrial Organization & Management Background
 
 ---
+![Supply Chain Header](Supply%20Chain%20Management.jpeg)
 
 ## 📌 Project Overview
 This repository contains a comprehensive data analytics project focused on the **Logistics and Supply Chain** sector. By integrating my background in **Industrial Organization and Management** with technical expertise in **Python, SQL, and Machine Learning**, I transformed raw operational data into strategic business assets.
