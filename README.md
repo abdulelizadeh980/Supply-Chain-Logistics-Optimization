@@ -41,6 +41,8 @@ Applied Natural Language Processing (NLP) to unstructured customer feedback usin
 * **Classification:** Categorized reviews into **Positive, Neutral, and Negative** sentiments.
 * **The Voice of Customer:** Generated a **Word Cloud** to visualize key pain points like "Late" and "Damaged" shipments.
 
+![NLP Analysis](NLP.jpeg)
+
 ### 4. Advanced Data Visualization
 Developed high-impact visuals to support executive decision-making:
 * **Heatmaps:** To visualize regional sentiment and delivery risk zones.
